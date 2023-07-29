@@ -121,7 +121,7 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
               py-2
               "
               >
-                Log in test
+                Log in
               </Button>
             </div>
           </>
